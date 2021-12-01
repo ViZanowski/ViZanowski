@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ViZanowski
-- 👀 I’m interested in Ruby
+- 👀 I’m interested in learn
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me vizanowski@gmail.com
+- 📫 vizanowski@gmail.com
 
 <!---
 ViZanowski/ViZanowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
